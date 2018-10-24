@@ -244,7 +244,7 @@
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.Server_GroupBox);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "s";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.Server_GroupBox.ResumeLayout(false);
             this.GroupBox_Mode.ResumeLayout(false);
