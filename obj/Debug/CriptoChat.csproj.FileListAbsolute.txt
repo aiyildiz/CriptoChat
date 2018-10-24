@@ -1,0 +1,10 @@
+D:\Users\AliIhsan\source\repos\CriptoChat\CriptoChat\bin\Debug\CriptoChat.exe.config
+D:\Users\AliIhsan\source\repos\CriptoChat\CriptoChat\bin\Debug\CriptoChat.exe
+D:\Users\AliIhsan\source\repos\CriptoChat\CriptoChat\bin\Debug\CriptoChat.pdb
+D:\Users\AliIhsan\source\repos\CriptoChat\CriptoChat\obj\Debug\CriptoChat.csprojAssemblyReference.cache
+D:\Users\AliIhsan\source\repos\CriptoChat\CriptoChat\obj\Debug\CriptoChat.Form1.resources
+D:\Users\AliIhsan\source\repos\CriptoChat\CriptoChat\obj\Debug\CriptoChat.Properties.Resources.resources
+D:\Users\AliIhsan\source\repos\CriptoChat\CriptoChat\obj\Debug\CriptoChat.csproj.GenerateResource.cache
+D:\Users\AliIhsan\source\repos\CriptoChat\CriptoChat\obj\Debug\CriptoChat.csproj.CoreCompileInputs.cache
+D:\Users\AliIhsan\source\repos\CriptoChat\CriptoChat\obj\Debug\CriptoChat.exe
+D:\Users\AliIhsan\source\repos\CriptoChat\CriptoChat\obj\Debug\CriptoChat.pdb
